@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/ToDoApplication/.vs/ToDoApplication/v16
+/ToDoApplication/bin/Debug/netcoreapp3.1
+/ToDoApplication/obj
+/ToDoApplication/ToDoApplication.csproj.user
